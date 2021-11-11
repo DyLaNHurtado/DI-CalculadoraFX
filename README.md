@@ -14,7 +14,7 @@ Calculadora hecha en Java FX aprendiendo el modelo Vista-Modelo-Controlador
 
 ## Imagen CalculadoraFX 📷 :
 
-<img src="https://raw.githubusercontent.com/DyLaNHurtado/CalculadoraFX/master/images/CalculadoraFX.PNG" alt="img_CalculadoraFX">
+<img src="https://raw.githubusercontent.com/DyLaNHurtado/DI-CalculadoraFX-SinXML/master/image/CalculadoraFXPNG.PNG" alt="img_CalculadoraFX">
 
 ## Autor ✍🏻 :
 
